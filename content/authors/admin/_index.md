@@ -34,4 +34,4 @@ superuser: true
 title: The Cooperstone Lab
 ---
 
-The Cooperstone Lab website is in the process of becoming better!  In the interim, link to our soon-to-be [old site](www.phytochemicals.osu.edu). 
+The Cooperstone Lab website is in the process of becoming better!  In the interim, link to our soon-to-be [old site](https://phytochemicals.osu.edu/). 
