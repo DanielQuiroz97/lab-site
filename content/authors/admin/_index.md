@@ -12,12 +12,10 @@ organizations:
 - name: The Ohio State University
 role: Horticulture & Crop Science, and Food Science & Technology
 social:
-- icon: envelope
+- icon: user-circle
   icon_pack: fas
-  link: /#contact
-- display:
-    header: true
-  icon: twitter
+  link: https://hcs.osu.edu/our-people/dr-jessica-cooperstone
+- icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/CooperstoneLab
@@ -27,11 +25,8 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/CooperstoneLab
-- icon: github
-  icon_pack: fab
-  link: https://github.com/jcooperstone
 superuser: true
 title: The Cooperstone Lab
 ---
 
-The Cooperstone Lab website is in the process of becoming better!  In the interim, link to our soon-to-be [old site](https://phytochemicals.osu.edu/). 
+The new Cooperstone Lab website is under construction!  In the interim, link to our soon-to-be [old site](https://phytochemicals.osu.edu/). 
