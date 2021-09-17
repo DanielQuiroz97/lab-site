@@ -5,7 +5,7 @@ role: "Assistant Professor, Ohio State University"
 avatar_shape: circle # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 audio_link_label: "" # leave blank to exclude
-link_list_label: "Our affiliations" # bookmarks, elsewhere, etc.
+link_list_label: "Find us @OhioState" # bookmarks, elsewhere, etc.
 link_list:
 - name: Horticulture & Crop Science
   url: https://hcs.osu.edu/

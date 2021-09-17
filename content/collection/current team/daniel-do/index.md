@@ -1,0 +1,21 @@
+---
+date: "2021-01-01"
+draft: false
+excerpt: Ph.D. Student <br> Food Science & Technology
+subtitle: ""
+title: Daniel Do
+weight: 5
+---
+
+<p align="left"> 
+<img src=featured.jpeg width="30%" alt="photo of daniel do">
+</p>
+
+*Degree:* Ph.D. <br>
+*Program:* Food Science and Technology <br>
+*Years in the lab:* 2021-present <br>
+*Research focus:* 
+<br> <br>
+
+*Background:* B.S. Chemistry, Stockton University, Galloway, NJ
+*Hometown:* Galloway, NJ

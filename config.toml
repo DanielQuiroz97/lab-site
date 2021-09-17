@@ -30,9 +30,9 @@ enableEmoji = true
 [params]
   orgName = "Jessica Cooperstone"
   orgLocal = ""
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/images/fruit-veg.jpeg"
-  logo = "/images/fruit-veg.jpeg"
+  description = ""
+  favicon = "/img/spectra.png"
+  logo = "/img/spectra.png"
   mainSections = ["research", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -138,8 +138,8 @@ enableEmoji = true
     url = "/talk/"
     weight = 5
   [[menu.header]]
-    name = "A collection"
-    title = "A collection"
+    name = "People"
+    title = "Our group"
     url = "/collection/"
     weight = 5
   [[menu.header]]
@@ -183,4 +183,6 @@ enableEmoji = true
     disable = false
     privacyEnhanced = true
 
+[permalinks]
+  people = "/collection/people/"
 

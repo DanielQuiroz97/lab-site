@@ -5,7 +5,7 @@ action_type: text
 description: The Cooperstone lab is an interdisciplinary group of researchers in the departments of Horticulture & Crop Science, and Food Science & Technology at Ohio State University.  We study the factors that govern biosynthesis of health beneficial phytochemicals in crops, how they contribute to human health, and how to make our foods better.  
 image_left: true
 images:
-- img/SystemsBiology.jpg
+- img/fruit_veg_emoji.png
 show_action_link: true
 show_social_links: true
 subtitle: A mass spectacular team
