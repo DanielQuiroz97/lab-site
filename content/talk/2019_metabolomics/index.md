@@ -12,3 +12,4 @@ subtitle: HCS/FST/HN 7600 plus lab
 title: Metabolomics, Principles and Practice
 ---
 
+Click [here](https://github.com/jcooperstone/lab-site/blob/main/content/talk/2019_metabolomics/metabolomics-2019-syllabus.pdf) for a course syllabus.

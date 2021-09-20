@@ -24,6 +24,6 @@ weight: 6
 Bilbrey EA, Williamson K, Hatzakis E, Miller DD, Fresnedo-Ramírez J, Cooperstone JL.  Integrating genomics and multiplatform metabolomics enables metabolite QTL detection in breeding-relevant apple germplasm.  New Phytologist, 2021, [https://doi.org/10.1111/nph.17693](https://doi.org/10.1111/nph.17693).
 - Also available as a [pre-print](https://www.biorxiv.org/content/10.1101/2021.02.18.431481v1) on bioRxiv
 
-*Background:* B.S. Biology, Union University, Jackson, TN
-*Hometown:* Valparaiso, IN
+*Background:* B.S. Biology, Union University, Jackson, TN <br>
+*Hometown:* Valparaiso, IN <br>
 *Contact*: bilbrey dot 21 at osu dot edu

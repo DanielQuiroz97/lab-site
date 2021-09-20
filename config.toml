@@ -37,7 +37,7 @@ enableEmoji = true
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
-  socialInHeader = false
+  socialInHeader = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
@@ -62,7 +62,7 @@ enableEmoji = true
   # sans-serif options: Commissioner / Atkinson Hyperlegible / Metropolis
   # if you import your own fonts, name them here too
   customtextFontFamily = "Commissioner"
-  customheadingFontFamily = "Fraunces"
+  customheadingFontFamily = "Metropolis"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "sans-serif"
@@ -94,13 +94,17 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://twitter.com/CooperstoneLab"
   [[params.social]]
-      icon      = "graduation-cap" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "https://hcs.osu.edu/our-people/dr-jessica-cooperstone"      
-  [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://github.com/CooperstoneLab"
+  [[params.social]]
+      icon      = "github" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://github.com/jcooperstone"
+  [[params.social]]
+      icon      = "graduation-cap" # icon name without the 'fa-'
+      icon_pack = "fas"
+      url       = "https://hcs.osu.edu/our-people/dr-jessica-cooperstone" 
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
@@ -144,11 +148,6 @@ enableEmoji = true
     weight = 7
     
   # Configure footer  
-  [[menu.footer]]
-    name = "License"
-    title = "License"
-    url = "/license/"
-    weight = 1
   [[menu.footer]]
     name = "Contact"
     title = "Contact form"

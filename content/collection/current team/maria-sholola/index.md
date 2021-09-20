@@ -16,6 +16,6 @@ weight: 3
 *Years in the lab:* 2020-present <br>
 *Research focus:* 
 
-*Background:* B.S. Chemistry, Loyola University, Chicago, IL
-*Hometown:* Chicago, IL
+*Background:* B.S. Chemistry, Loyola University, Chicago, IL <br>
+*Hometown:* Chicago, IL <br>
 *Contact*: sholola dot one at osu dot edu

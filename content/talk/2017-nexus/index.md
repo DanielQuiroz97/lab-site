@@ -12,4 +12,4 @@ subtitle: FST 7194
 title: Nexus of Food & Nutritional Security, Hunger and Sustainability
 ---
 
-Click [here](/content/talk/2017-nexus/fnhs-2017-syllabus.pdf) for a syllabus.
+Click [here](https://github.com/jcooperstone/lab-site/blob/main/content/talk/2017-nexus/fnhs-2017-syllabus.pdf) for a course syllabus.

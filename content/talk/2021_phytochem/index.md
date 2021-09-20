@@ -12,3 +12,4 @@ subtitle: HCS/FST/HN 7830
 title: Phytochemicals in Human Health, Crops to the Clinic
 ---
 
+Click [here](https://github.com/jcooperstone/lab-site/blob/main/content/talk/2021_phytochem/phytochem-2021-syllabus.pdf) for a course syllabus.

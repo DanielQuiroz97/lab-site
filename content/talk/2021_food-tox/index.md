@@ -12,3 +12,4 @@ subtitle: FST 7620
 title: Food and Nutritional Toxicology
 ---
 
+Click [here](https://github.com/jcooperstone/lab-site/blob/main/content/talk/2021_food-tox/tox-2021-syllabus.pdf) for a course syllabus.

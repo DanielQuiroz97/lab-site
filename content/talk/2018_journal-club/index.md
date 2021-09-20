@@ -2,13 +2,13 @@
 author: Jessica Cooperstone
 categories:
 - teaching
-date: "2019-01-07T9:10:59"
-date_end: "2019-02-22T11:00:59"
+date: "2018-08-21T13:50:59"
+date_end: "2018-10-15T14:45:59"
 draft: false
-excerpt: FST 7620
+excerpt: HCS 8830
 layout: single
 location: In person
-subtitle: FST 7620
-title: Food and Nutritional Toxicology
+subtitle: HCS 8830
+title: Metabolomics Journal Club
 ---
 
