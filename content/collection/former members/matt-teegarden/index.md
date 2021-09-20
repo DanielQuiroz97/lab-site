@@ -18,6 +18,8 @@ weight: 1
 <br> <br>
 *What has Matt been doing since he left the lab:* After he completed his Ph.D., Matt was briefly a postdoc with the Cooperstone lab, then was a Scientist at Abbott Nutrition, and is currently a Senior Researcher with the Foods for Health Initiative at Ohio State. <br>
 
+*Background*: B.S. Food Science and Technology, The Ohio State University, M.S. Food Science and Technology, The Ohio State University, M.S.
+*Hometown*: Cincinnati, OH
 *contact:* teegarden dot 3 at osu dot edu <br>
 
 [Google scholar profile](https://scholar.google.com/citations?user=wxwDqaYAAAAJ&hl=en&oi=ao) <br>

@@ -19,3 +19,4 @@ weight: 4
 
 *Background:* B.S. Biotechnology, Ikiam University, Tena, Ecuador
 *Hometown:* Riobamba, Ecuador
+*Contact*: quirozmoreno dot 1 at osu dot edu

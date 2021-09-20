@@ -33,7 +33,7 @@ enableEmoji = true
   description = ""
   favicon = "/img/spectra.png"
   logo = "/img/spectra.png"
-  mainSections = ["research", "project", "talk"]
+  mainSections = ["blog", "project"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -114,39 +114,34 @@ enableEmoji = true
 [menu]
   [[menu.header]]
     name = "About"
-    title = "About Apéro"
+    title = "About us"
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
-    title = "My blog"
+    name = "Research"
+    title = "Research"
     url = "/blog/"
-    weight = 2
-  [[menu.header]]
-    name = "Projects"
-    title = "My projects"
-    url = "/project/"
     weight = 3
   [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
+    name = "Analytical services"
+    title = "Analytical services"
     url = "/project/"
-    weight = 4
-  [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
     weight = 5
+  [[menu.header]]
+    name = "Teaching"
+    title = "Teaching"
+    url = "/talk/"
+    weight = 4
   [[menu.header]]
     name = "People"
     title = "Our group"
     url = "/collection/"
-    weight = 5
+    weight = 2
   [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
+    name = "Fun stuff"
+    title = "Fun stuff"
     url = "/elements/"
-    weight = 6
+    weight = 7
     
   # Configure footer  
   [[menu.footer]]

@@ -18,3 +18,4 @@ weight: 3
 
 *Background:* B.S. Chemistry, Loyola University, Chicago, IL
 *Hometown:* Chicago, IL
+*Contact*: sholola dot one at osu dot edu

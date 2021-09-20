@@ -18,4 +18,6 @@ weight: 3
 <br> <br>
 *What has Mallory been doing since she left the lab:* After she completed her M.S., Mallory took a position as a Research and Development Scientist at NutriScience Innovations in Chicago, IL. <br>
 
+*Background*: B.S. Food Science and Nutrition, University of Minnesota
+*Hometown*: Appleton, WI
 *contact:* goggans dot 3 at osu dot edu <br>

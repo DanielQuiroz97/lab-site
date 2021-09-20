@@ -26,3 +26,4 @@ Bilbrey EA, Williamson K, Hatzakis E, Miller DD, Fresnedo-Ramírez J, Cooperston
 
 *Background:* B.S. Biology, Union University, Jackson, TN
 *Hometown:* Valparaiso, IN
+*Contact*: bilbrey dot 21 at osu dot edu

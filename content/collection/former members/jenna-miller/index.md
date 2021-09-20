@@ -24,4 +24,6 @@ Fenstemaker S, Miller J, Cooperstone JL, Francis DM.  Estimating parental contri
 
 Mukherjee D, DiVincenzo M, Torok M, Choueiry F, Kumar R, Deems A, Miller JL, Hinton A, Geraghty C, Maranon JA, Kulp SK, Coss C, Carson III WE, Hart PA, Cooperstone JL, Mace TA.  Soy-tomato enriched diet reduces inflammation and disease severity in a pre-clinical model of chronic pancreatitis.  Sci Rep, 2020;10:21824.  [https://doi.org/10.1038/s41598-020-78762-9](https://doi.org/10.1038/s41598-020-78762-9)
 
+*Background*: B.S. Food Science, Purdue University
+*Hometown*: Westchester, OH
 *contact:* miller dot 7535 at osu dot edu <br>

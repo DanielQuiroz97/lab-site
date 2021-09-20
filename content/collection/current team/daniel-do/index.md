@@ -17,5 +17,6 @@ weight: 5
 *Research focus:* 
 <br> <br>
 
-*Background:* B.S. Chemistry, Stockton University, Galloway, NJ
-*Hometown:* Galloway, NJ
+*Background*: B.S. Chemistry, Stockton University, Galloway, NJ
+*Hometown*: Galloway, NJ
+*Contact*: do dot 226 at osu dot edu
