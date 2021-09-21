@@ -17,5 +17,5 @@ weight: 6
 *Research focus:* 
 <br> <br>
 
-*Hometown*: , OH
+*Hometown*: Hudson, OH
 *Contact*: brewer dot 504 at osu dot edu

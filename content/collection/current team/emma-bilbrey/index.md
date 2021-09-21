@@ -4,7 +4,7 @@ draft: false
 excerpt: Research Associate <br> Former M.S. Student <br> Horticulture & Crop Science
 subtitle: ""
 title: Emma Bilbrey
-weight: 6
+weight: 5
 ---
 
 <p align="left"> 

@@ -127,7 +127,7 @@ enableEmoji = true
     url = "/blog/"
     weight = 3
   [[menu.header]]
-    name = "Analytical services"
+    name = "Analytical"
     title = "Analytical services"
     url = "/project/"
     weight = 5
@@ -148,11 +148,6 @@ enableEmoji = true
     weight = 7
     
   # Configure footer  
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
