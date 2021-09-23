@@ -18,8 +18,8 @@ weight: 2
 <br> <br>
 *What has Michael been doing since he left the lab:* After he completed his Ph.D., Michael was a postdoctoral researcher with Mario Ferruzzi at North Carolina State University's Plants for Human Health Institute, and is currently a Plant Scientist with the USDA-Agricultural Research Service, slash an Assistant Professor of Pediatric Nutrition with the Baylor College of Medicine. <br>
 
-*Background*: B.S. Horticultural Science, Purdue University, M.S. Horticultural Science, Purdue University
-*Hometown*: Northbrook, IL
+*Background*: B.S. Horticultural Science, Purdue University, M.S. Horticultural Science, Purdue University <br>
+*Hometown*: Northbrook, IL <br>
 *contact:* dzakovich dot 1 at osu dot edu <br>
 
 [Google scholar profile](https://scholar.google.com/citations?user=ZI2lCPEAAAAJ&hl=en&oi=ao) <br>
