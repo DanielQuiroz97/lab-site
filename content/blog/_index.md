@@ -9,7 +9,7 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View recent posts
     text_link_url: /blog/
-description: ""
+description: "Here you can read about some of the different research focus areas, and approaches we use in our work."
 layout: list
 show_author_byline: false
 show_post_date: false

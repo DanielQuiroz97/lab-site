@@ -1,8 +1,7 @@
 ---
 cascade:
   headless: true
-description: |
-  Learn about the Cooperstone lab.
+description: Learn about the Cooperstone lab.
 show_header: true
 sidebar_left: false
 title: About the Cooperstone lab
