@@ -33,7 +33,7 @@ enableEmoji = true
   description = ""
   favicon = "/img/spectra.png"
   logo = "/img/spectra.png"
-  mainSections = ["blog", "project"]
+  mainSections = ["blog"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -122,25 +122,25 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
+    name = "People"
+    title = "Our group"
+    url = "/people/"
+    weight = 2
+  [[menu.header]]
     name = "Research"
     title = "Research"
     url = "/blog/"
     weight = 3
-  [[menu.header]]
-    name = "Analytical"
-    title = "Analytical services"
-    url = "/project/"
-    weight = 5
   [[menu.header]]
     name = "Teaching"
     title = "Teaching"
     url = "/talk/"
     weight = 4
   [[menu.header]]
-    name = "People"
-    title = "Our group"
-    url = "/collection/"
-    weight = 2
+    name = "Analytical"
+    title = "Analytical services"
+    url = "/project/"
+    weight = 5
   [[menu.header]]
     name = "Fun stuff"
     title = "Fun stuff"
@@ -173,5 +173,4 @@ enableEmoji = true
     privacyEnhanced = true
 
 [permalinks]
-  people = "/collection/people/"
-
+  people = "/project/:filename/"

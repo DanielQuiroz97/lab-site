@@ -1,6 +1,8 @@
 ---
 author: 
+type: collection
 cascade:
+  type: collection
   layout: single-series
   sidebar:
     author: 
