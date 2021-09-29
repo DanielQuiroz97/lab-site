@@ -134,12 +134,12 @@ enableEmoji = true
   [[menu.header]]
     name = "Teaching"
     title = "Teaching"
-    url = "/talk/"
+    url = "/teaching/"
     weight = 4
   [[menu.header]]
     name = "Analytical"
     title = "Analytical services"
-    url = "/project/"
+    url = "/analytical/"
     weight = 5
   [[menu.header]]
     name = "Fun stuff"

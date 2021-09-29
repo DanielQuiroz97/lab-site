@@ -1,6 +1,8 @@
 ---
+type: talk
 author: Jessica Cooperstone
 cascade:
+  type: talk
   author: Jessica Cooperstone
   show_author_byline: false
   show_comments: false

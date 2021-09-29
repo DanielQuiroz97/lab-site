@@ -1,6 +1,8 @@
 ---
+type: blog
 author: 
 cascade:
+  type: blog
   author: Jessica Cooperstone
   show_author_byline: false
   show_comments: false
