@@ -8,7 +8,7 @@ cascade:
   show_comments: false
   show_post_date: false
   sidebar:
-    show_sidebar_adunit: false
+    show_sidebar_adunit: true
     text_link_label: View recent posts
     text_link_url: /blog/
 description: "Here you can read about some of the different research focus areas, and approaches we use in our work."
@@ -19,7 +19,7 @@ show_post_thumbnail: true
 sidebar:
   author: Jessica Cooperstone
   description: ""
-  show_sidebar_adunit: false
+  show_sidebar_adunit: true
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
   title: Our research areas
