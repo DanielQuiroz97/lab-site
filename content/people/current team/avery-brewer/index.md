@@ -14,8 +14,8 @@ weight: 6
 *Degree:* B.S. <br>
 *Program:* Horticulture and Crop Science, Sustainable Plant Systems, Plant Biosciences <br>
 *Years in the lab:* 2020-present <br>
-*Research focus:* 
+*Research focus:* Understanding tomato steroidal alkaloid response to mechanical wounding in tomato
 <br> <br>
 
-*Hometown*: Hudson, OH
+*Hometown*: Hudson, OH<br>
 *Contact*: brewer dot 504 at osu dot edu

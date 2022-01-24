@@ -1,6 +1,6 @@
 ---
 ## Configure page content in wide column
-title: "Here is a little bit about our research interests." # leave blank to exclude
+title: "Here is a little bit about our research interests.<br><br>For prospective lab members, please see the left-panel on the [people](/people/) tab." # leave blank to exclude
 number_featured: 5 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude

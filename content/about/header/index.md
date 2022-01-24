@@ -9,9 +9,9 @@ headline: |
 <!-- this is a subheadline -->
 We are a friendly, interdisciplinary group of researchers at Ohio State University looking to make better fruits and vegetables 🍅🍏🍎🍓🌱
 
-We do lots of cool research including:
+We do lots of cool research activities including:
 
 - analytical chemistry and mass spectrometry
-- grow plants in the field and greenhouse
-- conduct animal studies and human clinical trials
+- growing plants in the field and greenhouse
+- conducting animal studies and human clinical trials
 - bioinformatics and multi-omic integration

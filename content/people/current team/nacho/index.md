@@ -3,7 +3,7 @@ date: ""
 draft: false
 excerpt: Lab dog
 subtitle: ""
-title: Nacho
+title: Nacho (Cooperstone)
 weight: 7
 ---
 
@@ -11,4 +11,9 @@ weight: 7
 <img src=featured.jpeg width="30%" alt="photo of nacho">
 </p>
 
-Nacho (Cooperstone) is currently our lab dog and worst pipettor of the group.  He enjoys belly rubs, rolling around in the dirt right after a bath, snoring loudly during work-from-home Zooms, and cheese.
+*Degree:* Working on basic obedience <br>
+*Years in the lab:* 2018-present <br>
+*Areas of focus:* Snoring during Zooms, rolling around in the dirt after a bath, eating cheese.
+<br> <br>
+
+*Hometown*: Columbus, OH<br>

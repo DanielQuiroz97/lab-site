@@ -14,7 +14,7 @@ weight: 3
 *Degree:* Ph.D. <br>
 *Program:* Food Science & Technology <br>
 *Years in the lab:* 2020-present <br>
-*Research focus:* 
+*Research focus:* Understanding absorption, metabolism, and bioactivity of tomato and soy phytochemicals.
 
 *Background:* B.S. Chemistry, Loyola University, Chicago, IL <br>
 *Hometown:* Chicago, IL <br>

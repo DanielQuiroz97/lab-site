@@ -17,6 +17,6 @@ weight: 4
 *Research focus:* Multi-omic integration for crop nutritional improvement
 <br> <br>
 
-*Background:* B.S. Biotechnology, Ikiam University, Tena, Ecuador
-*Hometown:* Riobamba, Ecuador
+*Background:* B.S. Biotechnology, Ikiam University, Tena, Ecuador<br>
+*Hometown:* Riobamba, Ecuador<br>
 *Contact*: quirozmoreno dot 1 at osu dot edu

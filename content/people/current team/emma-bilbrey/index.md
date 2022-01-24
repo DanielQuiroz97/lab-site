@@ -17,7 +17,7 @@ weight: 5
 *Years in the lab (as staff):* part-time in the flower farming off-season
 *Dissertation title:* Seeding multi-omic improvement of apple
 <br> <br>
-*What has Emma been doing since she left the lab:* After she completed her M.S., Emma started her very own flower farm, [Hickory Hills Flower Farm](https://www.instagram.com/hickoryhillsflowerfarm/?hl=en) in Valparaiso, IN. She also works part-time for the Cooperstone lab as a data scientist. <br>
+*What has Emma been doing since she left the lab:* After she completed her M.S., Emma started her very own flower farm, [Hickory Hills Flower Farm](https://www.hickoryhillsflowerfarm.com/) in Valparaiso, IN. She also works part-time for the Cooperstone lab as a data scientist. <br>
 
 *Pubs:*
 
