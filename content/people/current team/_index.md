@@ -4,7 +4,7 @@ date: ""
 description: |
   Click on each person to learn more about them and their research.
 excerpt: null
-layout: series
+layout: single-series
 publishDate: "2021-01-22"
 show_author_byline: false
 show_post_date: false
@@ -13,5 +13,6 @@ subtitle:
 title: Current team members
 weight: 2
 ---
+We are a friendly, interdisciplinary group of researchers at Ohio State University looking to make better fruits and vegetables 🍅🍏🍎🍓🌱<br>
 
-If you choose `layout: single-series`, you can add markdown text here and it will be the landing page for this nested subsection.
+Click on the panel on the left to learn more about everyone.
