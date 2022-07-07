@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>metabolomics on Cooperstone Lab</title>
+    <link>https://www.cooperstonelab.com/tags/metabolomics/</link>
+    <description>Recent content in metabolomics on Cooperstone Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.cooperstonelab.com/tags/metabolomics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Metabolomics</title>
+      <link>https://www.cooperstonelab.com/blog/metabolomics/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cooperstonelab.com/blog/metabolomics/</guid>
+      <description>Metabolomics allows the comprehensive profiling of hundreds to thousands of small molecules present within a system. By using this approach, we can understand how metabolic changes (in plants, cells, animals, or people) are affected by our research question, and generate new ideas we may not be able to a priori hypothesize.
+Here is some work we&amp;rsquo;ve published on the topic:
+ Bilbrey EA, Williamson K, Hatzakis E, Doud Miller D, Fresnedo Ramírez J, Cooperstone JL.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -4,7 +4,7 @@ draft: false
 excerpt: B.S. Student <br> Horticulture and Crop Science
 subtitle: ""
 title: Avery Brewer
-weight: 6
+weight: 8
 ---
 
 <p align="left"> 

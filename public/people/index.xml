@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learn more about our team on Cooperstone Lab</title>
+    <link>https://www.cooperstonelab.com/people/</link>
+    <description>Recent content in Learn more about our team on Cooperstone Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 22 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.cooperstonelab.com/people/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jessica Cooperstone, Ph.D.</title>
+      <link>https://www.cooperstonelab.com/people/jess-cooperstone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cooperstonelab.com/people/jess-cooperstone/</guid>
+      <description>Quick bio: Dr. Jessica Cooperstone is an Assistant Professor in the departments of Horticulture and Crop Science, and Food Science and Technology at The Ohio State University, and was hired under the Foods for Health focus area of the Discovery Themes Initiative. She and her team are interested in understanding the chemical basis for the health benefits associated with fruit and vegetable rich diets. From fundamental studies in crops, to nutrition-based clinical trials, her group works across the plant-food-nutrition-health continuum.</description>
+    </item>
+    
+  </channel>
+</rss>

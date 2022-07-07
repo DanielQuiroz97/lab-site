@@ -11,7 +11,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View recent posts
     text_link_url: /blog/
-description: "Here you can read about some of the different research focus areas, and approaches we use in our work."
+description: "Here you can read about some of the different research focus areas, and approaches we use in our work. The best place to find a comprehensive list of our papers is on [Google Scholar](https://scholar.google.com/citations?user=d-FkQNQAAAAJ&hl=en)."
 layout: list
 show_author_byline: false
 show_post_date: false

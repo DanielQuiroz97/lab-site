@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>liquid chromatography on Cooperstone Lab</title>
+    <link>https://www.cooperstonelab.com/tags/liquid-chromatography/</link>
+    <description>Recent content in liquid chromatography on Cooperstone Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 19 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.cooperstonelab.com/tags/liquid-chromatography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phytochemical analysis</title>
+      <link>https://www.cooperstonelab.com/blog/method-development/</link>
+      <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cooperstonelab.com/blog/method-development/</guid>
+      <description>In order to understand what phytochemicals are doing within a system, robust and quantitative methods are required for their analysis. We focus on developing liquid chromatography and mass spectrometry based methods to allow analysis of phytochemicals and their metabolites, often present at picomolar concentrations.
+Here is some work we&amp;rsquo;ve published on the topic:
+ Dzakovich MP, Hartman JL, Cooperstone JL. A high-throughput extraction and analysis method for steroidal glycoalkaloids in tomato.</description>
+    </item>
+    
+  </channel>
+</rss>

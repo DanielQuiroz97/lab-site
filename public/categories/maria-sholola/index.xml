@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>maria sholola on Cooperstone Lab</title>
+    <link>https://www.cooperstonelab.com/categories/maria-sholola/</link>
+    <description>Recent content in maria sholola on Cooperstone Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 19 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.cooperstonelab.com/categories/maria-sholola/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phytochemical analysis</title>
+      <link>https://www.cooperstonelab.com/blog/method-development/</link>
+      <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cooperstonelab.com/blog/method-development/</guid>
+      <description>In order to understand what phytochemicals are doing within a system, robust and quantitative methods are required for their analysis. We focus on developing liquid chromatography and mass spectrometry based methods to allow analysis of phytochemicals and their metabolites, often present at picomolar concentrations.
+Here is some work we&amp;rsquo;ve published on the topic:
+ Dzakovich MP, Hartman JL, Cooperstone JL. A high-throughput extraction and analysis method for steroidal glycoalkaloids in tomato.</description>
+    </item>
+    
+    <item>
+      <title>Nutrition interventions with fruits and vegetables</title>
+      <link>https://www.cooperstonelab.com/blog/nutritional-interventions/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cooperstonelab.com/blog/nutritional-interventions/</guid>
+      <description>To determine the in vivo health impacts of fruits and vegetables and their constituent phytochemicals, we conduct studies in animals and humans. We look to understand absorption, metabolism, distribution, excretion, and effect on development of disease.
+Here is some work we&amp;rsquo;ve published on the topic:
+In humans:  Cooperstone JL, Novotny JA, Riedl KM, Cichon MJ, Francis DM, Curley Jr. RW, Schwartz SJ, Harrison EH. Limited appearance of apocarotenoids is observed in plasma after consumption of tomato juices, a randomized human clinical trial.</description>
+    </item>
+    
+  </channel>
+</rss>
