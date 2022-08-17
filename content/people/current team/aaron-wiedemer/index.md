@@ -8,7 +8,7 @@ weight: 7
 ---
 
 <p align="left"> 
-<img src=featured.jpg width="30%" alt="photo of aaron wiedemer">
+<img src=featured.png width="30%" alt="photo of aaron wiedemer">
 </p>
 
 *Degree:* Ph.D. <br>
