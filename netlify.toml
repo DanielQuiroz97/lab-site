@@ -4,6 +4,9 @@ publish = "public"
 [build.environment]
 HUGO_VERSION = "0.80.0"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [context]
 [context.branch-deploy]
 command = "hugo -F -b $DEPLOY_PRIME_URL"
