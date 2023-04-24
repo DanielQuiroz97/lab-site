@@ -21,5 +21,5 @@ weight: 7
 [Twitter](https://twitter.com/aaron_wiedemer)
 
 *Background:* B.S. Food Science, minor Jazz Performance, Penn State University, University Park, PA<br>
-*Hometown:* <br>
+*Hometown:* Chatham, NJ <br>
 *Contact*: wiedemer dot 7 at osu dot edu
