@@ -14,8 +14,10 @@ weight: 6
 *Degree:* Ph.D. <br>
 *Program:* Horticulture and Crop Science <br>
 *Years in the lab:* 2022-present <br>
-*Research focus:* 
-<br> <br>
+*Research focus:* Apple improvement using genomics, metabolomics, and sensory science
+<br>
+
+[Twitter](https://twitter.com/lydvee) <br>
 
 *Background:* B.S. Biology, minor in English Language and Literature, University of Western Ontario, Canada<br>
 *Hometown:* London, Ontario, Canada<br>

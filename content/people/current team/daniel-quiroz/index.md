@@ -14,8 +14,12 @@ weight: 4
 *Degree:* Ph.D. <br>
 *Program:* Horticulture and Crop Science <br>
 *Years in the lab:* 2021-present <br>
-*Research focus:* Multi-omic integration for crop nutritional improvement
-<br> <br>
+*Research focus:* Multi-omic integration for crop nutritional improvement, with a focus on developing informatic tools.
+<br> 
+
+[Google scholar profile](https://scholar.google.com/citations?user=OrW7g38AAAAJ&hl=en) <br>
+[Twitter](https://twitter.com/cristianquirozd) <br>
+[Github](https://github.com/DanielQuiroz97)
 
 *Background:* B.S. Biotechnology, Ikiam University, Tena, Ecuador<br>
 *Hometown:* Riobamba, Ecuador<br>

@@ -14,7 +14,7 @@ weight: 5
 *Degree:* Ph.D. <br>
 *Program:* Food Science and Technology <br>
 *Years in the lab:* 2021-present <br>
-*Research focus:* 
+*Research focus:* Elucidating the in vivo relevance of tomato steroidal alkaloids: an understanding of their absorption, metabolism, accumulation, and bioefficacy
 <br> <br>
 
 *Background*: B.S. Chemistry, Stockton University, Galloway, NJ<br>

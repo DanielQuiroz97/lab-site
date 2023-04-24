@@ -15,7 +15,10 @@ weight: 7
 *Program:* Food Science & Technology  <br>
 *Years in the lab:* 2022-present <br>
 *Research focus:* 
-<br> <br>
+<br>
+
+[Google scholar profile](https://scholar.google.com/citations?user=MJHKTQ8AAAAJ&hl=en&oi=ao) <br>
+[Twitter](https://twitter.com/aaron_wiedemer)
 
 *Background:* B.S. Food Science, minor Jazz Performance, Penn State University, University Park, PA<br>
 *Hometown:* <br>
