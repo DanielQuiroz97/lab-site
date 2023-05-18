@@ -6,7 +6,34 @@
     <description>Recent content in teaching on Cooperstone Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jun 2022 15:00:59 +0000</lastBuildDate><atom:link href="https://www.cooperstonelab.com/categories/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Jan 2023 12:40:59 +0000</lastBuildDate><atom:link href="https://www.cooperstonelab.com/categories/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Metabolomics, Principles and Practice</title>
+      <link>https://www.cooperstonelab.com/teaching/2023_metabolomics/</link>
+      <pubDate>Sun, 08 Jan 2023 12:40:59 +0000</pubDate>
+      
+      <guid>https://www.cooperstonelab.com/teaching/2023_metabolomics/</guid>
+      <description>Click here for a course syllabus.</description>
+    </item>
+    
+    <item>
+      <title>Food and Nutritional Toxicology</title>
+      <link>https://www.cooperstonelab.com/teaching/2023_food-tox/</link>
+      <pubDate>Sun, 08 Jan 2023 09:10:59 +0000</pubDate>
+      
+      <guid>https://www.cooperstonelab.com/teaching/2023_food-tox/</guid>
+      <description>Click here for a course syllabus.</description>
+    </item>
+    
+    <item>
+      <title>Methods in Data Visualization in R</title>
+      <link>https://www.cooperstonelab.com/teaching/2022_data-viz/</link>
+      <pubDate>Tue, 23 Aug 2022 15:55:59 +0000</pubDate>
+      
+      <guid>https://www.cooperstonelab.com/teaching/2022_data-viz/</guid>
+      <description>Click here for the course website.</description>
+    </item>
+    
     <item>
       <title>Code Club</title>
       <link>https://www.cooperstonelab.com/teaching/2022_summer_codeclub/</link>
