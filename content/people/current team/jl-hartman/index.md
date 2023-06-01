@@ -23,4 +23,5 @@ Dzakovich MP, Hartman JL, Cooperstone JL. A high-throughput extraction and analy
 
 *Background:* B.S. Biology, Wingate University, M.S. Horticultural Science, North Carolina State University <br>
 *Hometown:* Salisbury, NC <br>
+*Non-work interests:* <br>
 *Contact*: hartman dot 635 at osu dot edu

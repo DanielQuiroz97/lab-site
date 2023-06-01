@@ -18,5 +18,6 @@ weight: 5
 <br> <br>
 
 *Background*: B.S. Chemistry, Stockton University, Galloway, NJ<br>
-*Hometown*: Galloway, NJ<br>
+*Hometown*: Galloway, NJ, USA <br>
+*Non-work interests:* <br>
 *Contact*: do dot 226 at osu dot edu

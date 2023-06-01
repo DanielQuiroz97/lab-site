@@ -17,3 +17,4 @@ weight: 20
 <br> <br>
 
 *Hometown*: Columbus, OH<br>
+*Interests:* splooting, taking walks as long as its not too hot, cheese

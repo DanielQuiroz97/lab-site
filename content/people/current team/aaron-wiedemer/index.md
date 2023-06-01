@@ -17,9 +17,11 @@ weight: 7
 *Research focus:* 
 <br>
 
+*Background:* B.S. Food Science, minor Jazz Performance, Penn State University, University Park, PA<br>
+*Hometown:* Chatham, NJ, USA <br>
+*Non-work interests:* <br>
+*Contact*: wiedemer dot 7 at osu dot edu <br>
+
+*Links:* <br>
 [Google scholar profile](https://scholar.google.com/citations?user=MJHKTQ8AAAAJ&hl=en&oi=ao) <br>
 [Twitter](https://twitter.com/aaron_wiedemer)
-
-*Background:* B.S. Food Science, minor Jazz Performance, Penn State University, University Park, PA<br>
-*Hometown:* Chatham, NJ <br>
-*Contact*: wiedemer dot 7 at osu dot edu

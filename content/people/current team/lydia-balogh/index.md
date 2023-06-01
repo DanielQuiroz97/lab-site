@@ -17,8 +17,10 @@ weight: 6
 *Research focus:* Apple improvement using genomics, metabolomics, and sensory science
 <br>
 
-[Twitter](https://twitter.com/lydvee) <br>
-
 *Background:* B.S. Biology, minor in English Language and Literature, University of Western Ontario, Canada<br>
-*Hometown:* London, Ontario, Canada<br>
+*Hometown:* London, Ontario, Canada <br>
+*Non-work interests:* <br>
 *Contact*: balogh dot 67 at osu dot edu
+
+*Links:* <br>
+[Twitter](https://twitter.com/lydvee) <br>
