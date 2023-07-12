@@ -13,6 +13,7 @@ categories:
   - tomato
   - apple
   - black raspberry
+  - winterberry
   - michael dzakovich
   - matt teegarden
   - jenna miller
@@ -20,6 +21,7 @@ categories:
   - jordan (jl) hartman
   - daniel quiroz moreno
   - annalise celano
+  - aaron wiedemer
 # layout options: single, single-sidebar
 layout: single
 ---
@@ -27,6 +29,8 @@ Metabolomics allows the comprehensive profiling of hundreds to thousands of smal
 
 Here is some work we've published on the topic:
 
+- Emanuel I, Cooperstone JL, Hand-Peduto F. UHPLC-MS/MS identification of metabolites in winterberry fruit putatively associated with natural disease resistance to Diaporthe ilicicola. Submitted, Phytopathology, 2023, Accepted.
+- Emanuel I, Cooperstone JL, Hand-Peduto F. Susceptibility screening of winterberry (Ilex verticillata) cultivars against latent fruit rot, and identification of metabolites correlated with rot-resistant phenotypes. Submitted, J Environ Hortic. 2023, Accepted.
 - Bilbrey EA, Williamson K, Hatzakis E, Doud Miller D, Fresnedo Ramírez J, Cooperstone JL. [Integrating genomics and multi-platform metabolomics enables metabolite QTL detection in breeding-relevant apple germplasm](https://doi.org/10.1111/nph.17693). New Phytologist, 2021. <br>
 -- Also published a [pre-print](https://doi.org/10.1101/2021.02.18.431481) on bioRxiv
 - Knobloch TJ, Ryan NM, Bruschweiler-Li L, Wang C, Bernier MC, Somogyi A, Yan PS, Cooperstone JL, Mo X, Bruschweiler RP, Weghorst CM, Oghumu S.  [Metabolic regulation of glycolysis and AMP activated protein kinase pathways during black raspberry-mediated oral cancer chemoprevention](https://doi.org/10.3390/metabo9070140). Metabolites 2019;9(7):140. 

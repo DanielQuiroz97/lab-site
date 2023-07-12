@@ -20,7 +20,7 @@ Apples are the most consumed fruit in the US and both anectdotally and actually 
 
 Here is some work we've published on the topic:
 
-- Bilbrey EA, Williamson K, Hatzakis E, Doud Miller D, Fresnedo Ramírez J, Cooperstone JL. [Integrating genomics and multi-platform metabolomics enables metabolite QTL detection in breeding-relevant apple germplasm](https://doi.org/10.1111/nph.17693). New Phytologist, 2021. 
+- Bilbrey EA, Williamson K, Hatzakis E, Doud Miller D, Fresnedo Ramírez J, Cooperstone JL. [Integrating genomics and multi-platform metabolomics enables metabolite QTL detection in breeding-relevant apple germplasm](https://doi.org/10.1111/nph.17693). New Phytologist, 2021. <br>
 -- Also published a [pre-print](https://doi.org/10.1101/2021.02.18.431481) on bioRxiv
 
 If you have trouble accessing any work, send Jess an email and she'd be happy to share the paper and its relevant data with you.
