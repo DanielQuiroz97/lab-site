@@ -20,4 +20,5 @@ weight: 8
 
 *Background:* B.S. Food Engineering, M.S. Chemical Engineering, Ph.D. Chemical Engineering, all from Federal University of Rio Grande do Sul, Porto Alegre, Brazil. Currently Assistant Professor, Food Science, Federal University of Rio Grande do Sul, Porto Alegre, Brazil<br>
 *Hometown:* Porto Alegre, Rio Grande do Sul, Brazil <br>
+*Non-work interests:* Brazilian soccer (especially Grêmio Foot-Ball Porto Alegrense, the best team of southern Brazil), meditation and mindfulness, exploring nature (parks, beaches, mountains) <br>
 *Contact*: mercali dot 1 at osu dot edu
